@@ -358,7 +358,7 @@ def compare_historys(original_history, new_history, initial_epochs=5):
   plt.title("Training and Validation Loss")
 
   
-  import random
+import random
 
 # Create a function for plotting a random image along with its prediction
 def plot_random_image(model, images, true_labels, classes):
