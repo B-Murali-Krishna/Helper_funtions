@@ -1,1 +1,1 @@
-Some usefull projects so far i have done.
+Some helper functions and notes
